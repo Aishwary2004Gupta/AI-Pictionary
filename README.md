@@ -10,3 +10,5 @@ For example, run this command inside your terminal:
 git clone https://github.com/<your-github-username>/ai-pictionary.git
 
 Replace <your-github-username>!
+
+If you are on Mac
