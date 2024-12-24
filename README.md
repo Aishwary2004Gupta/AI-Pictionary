@@ -27,3 +27,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 To run the application
+
+python app.py
+and run your html file by clicking on the live server
