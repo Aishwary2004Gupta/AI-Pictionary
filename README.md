@@ -11,4 +11,10 @@ git clone https://github.com/<your-github-username>/ai-pictionary.git
 
 Replace <your-github-username>!
 
+Go on to your terminal 
 If you are on Mac
+touch .env
+
+python -m venv venv 
+
+
