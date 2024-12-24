@@ -17,4 +17,6 @@ If you are on Mac
 touch .env
 python -m venv venv 
 source venv/bin/activate
+pip install -r requirements.txt
 
+If you are on Windows
