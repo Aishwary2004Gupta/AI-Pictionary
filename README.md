@@ -20,3 +20,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 If you are on Windows
+
+new-item .env
