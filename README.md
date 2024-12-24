@@ -22,3 +22,5 @@ pip install -r requirements.txt
 If you are on Windows
 
 new-item .env
+python -m venv venv
+venv\Scripts\activate
