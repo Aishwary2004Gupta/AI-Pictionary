@@ -86,18 +86,10 @@ git clone https://github.com/Aishwary2004Gupta/AI-Pictionary.git
 
 ---
 
-## License
-
-This project is licensed under [LICENSE_NAME]. (Replace with your project's license if applicable.)
-
----
-
 ## Contributing
 
 Feel free to fork the repository and submit a pull request with your improvements or new features!
 
 ---
 
-## Contact
 
-For any issues or questions, please contact Aishwary Gupta at [Your Email/Contact Info].
