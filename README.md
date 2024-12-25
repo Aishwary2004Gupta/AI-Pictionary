@@ -65,7 +65,7 @@ git clone https://github.com/Aishwary2004Gupta/AI-Pictionary.git
 
 #### .env file
 ```bash                
-  api_key = os.getenv("Your-OPENAI-API-KEY")
+  OPENAI_API_KEY = "your-api-key"
 ```
 
 ### 3. Run the Application
