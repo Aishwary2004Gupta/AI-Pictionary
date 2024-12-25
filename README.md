@@ -58,6 +58,11 @@ git clone https://github.com/Aishwary2004Gupta/AI-Pictionary.git
 
 ## Make sure to add your own OPENAI_API
 
+#### app.py file
+```bash                
+  api_key = os.getenv("Your-OPENAI-API-KEY")
+```
+
 #### .env file
 ```bash                
   api_key = os.getenv("Your-OPENAI-API-KEY")
