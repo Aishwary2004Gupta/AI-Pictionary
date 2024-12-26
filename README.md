@@ -89,6 +89,3 @@ git clone https://github.com/Aishwary2004Gupta/AI-Pictionary.git
 ## Contributing
 
 Feel free to fork the repository and submit a pull request with your improvements or new features!
-
----
-
